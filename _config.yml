@@ -2,7 +2,6 @@ title: Ayham's Blog # The title of the blog
 author: Ayham Hasan # Your name 
 email: contact@ayham.dev # your email shown in the footer
 url: https://ayham.dev/ # this is your site's root address.
-baseurl: /
 description: > # this means to ignore newlines until "show_excerpts:"
   A place of love, hate, and wonder.
 favicon: "./favicon.ico" # set the favicon of the site 
@@ -21,12 +20,12 @@ moving:
   social_links:
     # twitter: 
     github:  AyhamHasan
-    # rss: RSS
+    #rss: RSS
     # dribbble: 
-    # facebook: huangyz0918
+    #facebook: 
     # flickr:   
     # instagram: 
-    linkedin: ayham-hasan-876347157
+    linkedin: ayham-hasan
     # pinterest: 
     # youtube: 
     # youtube_channel: 
@@ -44,9 +43,9 @@ moving:
     #   instance: 
 
 # Build settings
-remote_theme: huangyz0918/moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
+#theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
+remote_theme: huangyz0918/moving
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
