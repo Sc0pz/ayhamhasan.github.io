@@ -1,0 +1,14 @@
+current directory: /mnt/c/Users/Ayham Hasan/ayhamhasan.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210402-1816-1vy7imc.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/Ayham Hasan/ayhamhasan.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/Ayham Hasan/ayhamhasan.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+gcc: error: Hasan/ayhamhasan.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser: No such file or directory
+make: *** [Makefile:245: ruby_http_parser.o] Error 1
+
+make failed, exit code 2
