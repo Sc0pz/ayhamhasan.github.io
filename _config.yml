@@ -1,6 +1,6 @@
 title: Ayham's Blog # The title of the blog
 author: Ayham [ S c 0 p z ] # Your name 
-email: contact@ayham.dev # your email shown in the footer
+email: contactme@ayham.dev # your email shown in the footer
 url: https://ayham.dev/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A place of love, hate, and wonder.
@@ -24,7 +24,7 @@ moving:
     # dribbble: 
     #facebook: 
     # flickr:   
-    # instagram: 
+    instagram: ayham.mov
     linkedin: ayham-hasan
     # pinterest: 
     # youtube: 
